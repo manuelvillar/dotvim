@@ -1,18 +1,24 @@
 [submodule "bundle/jshint"]
 	path = bundle/jshint
 	url = git://github.com/walm/jshint.vim
+	ignore = dirty
 [submodule "bundle/vim-node"]
 	path = bundle/vim-node
 	url = https://github.com/moll/vim-node.git
+	ignore = dirty
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+	ignore = dirty
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+	ignore = dirty
 [submodule "bundle/vim-javascript"]
 	path = bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+	ignore = dirty
 [submodule "bundle/vim-jsbeautify"]
 	path = bundle/vim-jsbeautify
 	url = https://github.com/maksimr/vim-jsbeautify.git
+	ignore = dirty
